@@ -1,0 +1,9 @@
+.tile {
+	width: 64px;
+	height: 64px;
+	min-width: 64px;
+	min-height: 64px;
+	background-color: #006600;
+	border:solid medium black;
+	display: inline-block;
+}
